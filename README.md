@@ -43,7 +43,7 @@ The analysis included:
 
 ## Power BI Dashboard
 
-![E-Commerce Sales & Performance Dashboard](images/dashboard.png)
+![E-Commerce Sales & Performance Dashboard](images/dashboard.jpg)
 
 The dashboard provides an interactive view of:
 
@@ -89,4 +89,4 @@ Brazilian-Ecommerce-Analysis/
 │   └── ecommerce_dashboard.pbix
 │
 └── images/
-    └── dashboard.png
+    └── dashboard.jpg
